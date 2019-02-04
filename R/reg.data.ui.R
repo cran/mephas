@@ -19,8 +19,8 @@ sidebarPanel(
 ##----------example datasets----------
 
 selectInput("edata", "Choose data:", 
-          choices =  c("insurance","advertisement","lung"), 
-          selected = "insurance"),
+          choices =  c("insurance_linear_regression","advertisement_logistic_regression","lung_survival_regression"), 
+          selected = "insurance_linear_regression"),
 ## render dynamic checkboxes
 
 

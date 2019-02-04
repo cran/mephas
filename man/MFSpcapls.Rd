@@ -14,7 +14,7 @@ MFSpcapls function creates a dynamic calculator which enables users to do PCA, P
 }
 \details{
 This app includes one-way ANOVA, two-way ANOVA, and multiple comparison. The results include ANOVA table, descriptive statistics, and bar-plot of the group's mean value.
-Please click "close" window to quit the application. "mixOmics" package may be required.
+Please click "close" window to quit the application. "ggfortify", spls" and "pls" package may be required.
 }
 \examples{
 # library(mephas)
